@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Sakız",
+    "price": 0.5,
+    "image": "https://st3.myideasoft.com/idea/gm/43/myassets/products/490/43490-1.jpg?revision=1633092880"
+  },
+  {
+    "id": 2,
+    "title": "Kola",
+    "price": 6,
+    "image": "https://n11scdn.akamaized.net/a1/640/03/87/04/86/03436764.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Ayakkabı",
+    "price": 400,
+    "image": "https://st-vans.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/637639363468969344.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Araba",
+    "price": 40000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTq-GkDhJhTGis3AB1G_OpSpI8TP6-RpjWw&usqp=CAU"
+  }
+]
